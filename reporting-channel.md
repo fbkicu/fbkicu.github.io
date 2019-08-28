@@ -34,6 +34,8 @@
 
 #### 吉林省 / Jilin Prov.
 
+吉林省教育厅 0431-88905300
+
 #### 辽宁省 / Liaoning Prov.
 
 #### 黑龙江省 / Helongjiang Prov.
