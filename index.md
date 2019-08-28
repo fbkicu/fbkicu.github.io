@@ -8,3 +8,5 @@
 [举报渠道 / reporting-channel](reporting-channel)
 
 [互助举报 / help-report](help-report)
+
+[反馈 / Report](http://39.106.62.46)
