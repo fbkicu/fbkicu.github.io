@@ -11,4 +11,6 @@
 
 [相关事件 / Stories](stories)
 
+[相关法律法规 / Legal](legal)
+
 [反馈 / Report](http://39.106.62.46)
