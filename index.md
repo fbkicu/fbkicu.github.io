@@ -9,4 +9,6 @@
 
 [互助举报 / help-report](help-report)
 
+[相关事件 / Stories](stories)
+
 [反馈 / Report](http://39.106.62.46)
