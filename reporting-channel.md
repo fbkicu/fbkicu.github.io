@@ -301,27 +301,51 @@
 
 #### 北京 / Beijing
 
+[北京市教育委员会](http://jw.beijing.gov.cn/)
+
 #### 天津 / Tianjin
+
+[天津市教育委员会](http://jy.tj.gov.cn/)
 
 #### 上海 / Shanghai
 
+[上海教育门户网站](http://edu.sh.gov.cn/)
+
 #### 重庆 / Chongqing
+
+[重庆市教育委员会公众信息网](http://www.cqedu.cn/)
 
 #### 河北省 / Hebei Prov.
 
+[河北省教育厅](http://jyt.hebei.gov.cn/)
+
 #### 山西省 / Shanxi Prov.
+
+[山西省教育厅](http://jyt.shanxi.gov.cn/)
 
 #### 吉林省 / Jilin Prov.
 
+[吉林省教育厅](http://jyt.jl.gov.cn/)
+
 #### 辽宁省 / Liaoning Prov.
+
+[辽宁省教育网](http://www.lnen.cn/)
 
 #### 黑龙江省 / Helongjiang Prov.
 
+[黑龙江省教育厅](http://jyt.hlj.gov.cn/)
+
 #### 陕西省 / Shanxi Prov. 
+
+[陕西省教育厅](http://jyt.shaanxi.gov.cn/)
 
 #### 甘肃省 / Gansu Prov. 
 
+[甘肃省教育厅](http://jyt.gansu.gov.cn/)
+
 #### 青海省 / Qinghai Prov. 
+
+[青海省教育厅](http://www.qhedu.cn/)
 
 #### 山东省 / Shandong Prov.
 
@@ -331,38 +355,76 @@
 
 #### 福建省 / Fujian Prov.
 
+[福建省教育厅](http://jyt.fujian.gov.cn/)
+
 #### 浙江省 / Zhejiang Prov.
 
-#### 台湾省 / Taiwan Prov. 
+[浙江省教育厅](http://jyt.zj.gov.cn/)
+
+#### 台湾省 / Taiwan Prov.
+
+[教育部国民及学前教育署](https://www.k12ea.gov.tw/)
 
 #### 河南省 /Henan Prov.
 
+[河南省教育厅](http://www.haedu.gov.cn/)
+
 #### 湖北省 / Hubei Prov.
+
+[湖北省教育厅](http://jyt.hubei.gov.cn/index.php)
 
 #### 湖南省 / Hunan Prov.
 
+[湖南省教育厅](http://jyt.hunan.gov.cn/jyt/index.html)
+
 #### 江西省 / Jiangxi Prov.
+
+[江西省教育厅](http://www.jxedu.gov.cn/)
 
 #### 江苏省 / Jiangsu Prov.
 
+[江苏教育](http://jyt.jiangsu.gov.cn/)
+
 #### 安徽省 / Anhui Prov.
+
+[安徽教育网](http://jyt.ah.gov.cn/)
 
 #### 广东省 / Guangdong Prov.
 
+[广东省教育厅网站](http://edu.gd.gov.cn/)
+
 #### 海南省 / Hainan Prov.
+
+[海南省教育厅](http://edu.hainan.gov.cn/)
 
 #### 四川省 / Sichuan Prov.
 
+[四川省教育厅](http://edu.sc.gov.cn/p/0/)
+
 #### 贵州省 / Guizhou Prov.
+
+[贵州省教育厅门户网](http://www.gzsjyt.gov.cn/)
 
 #### 云南省 / Yunnan Prov.
 
+[云南省教育厅](https://www.ynjy.cn/web)
+
 #### 广西壮族自治区 / Guangxi
+
+[广西壮族自治区教育厅](http://jyt.gxzf.gov.cn/)
 
 #### 内蒙古自治区 / Neimenggu
 
+[内蒙古自治区教育厅](http://www.nmgov.edu.cn/)
+
 #### 新疆维吾尔自治区 / Xinjiang
+
+[新疆维吾尔自治区教育厅](http://www.xjedu.gov.cn/index.html)
 
 #### 宁夏回族自治区 / Ningxia 
 
+[宁夏回族自治区教育厅](http://jyt.nx.gov.cn/index.html)
+
 #### 西藏自治区 / Xizang
+
+[西藏自治区教育厅](http://edu.xizang.gov.cn/)
