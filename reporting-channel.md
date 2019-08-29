@@ -297,7 +297,7 @@
 
 ### 全国 / China
 
-[全国涉黑涉恐违法犯罪线索举报](http://www.12389.gov.cn/clue_evilNotice.action)
+[中华人民共和国教育部](http://www.moe.gov.cn/)
 
 #### 北京 / Beijing
 
