@@ -385,6 +385,9 @@
 
 [江西省教育厅](http://www.jxedu.gov.cn/)
 
+[问政江西](http://wz.jxnews.com.cn/)
+- 备注：江西省还有省“五型”办联合媒体办的“问政江西”平台：http://wz.jxnews.com.cn/ ，在那里举报也有一定的成功的可能性，但是有的地方政府不作为就没办法了。可以作为另一个辅助渠道。 
+
 #### 江苏省 / Jiangsu Prov.
 
 [江苏教育](http://jyt.jiangsu.gov.cn/)
